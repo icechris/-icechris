@@ -34,3 +34,6 @@
 📩 Reach out to me directly if you want to have a conversation: duoduchristian36@gmail.com
 
 Thanks for connecting✌🏾
+
+
+https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg
