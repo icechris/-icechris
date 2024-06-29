@@ -9,7 +9,7 @@
 
 🌇 writing building, deploying end-to-end and selling web solutions that help businesses scale while saving time and cost 
 
-🔭 Looking into the future, I am committed to becoming a Software Engineer with a background of designing(graphics and architectural) video editing, sales, cloud development and cybersecurity where I can mentor large teams and drive profitability in the future.
+🔭 Looking into the future, I am committed to becoming a Software Engineer with a background of designing(graphics and systems) video editing, sales, cloud development and cybersecurity where I can mentor large teams and drive profitability in the future.
 
 😍 When I'm away from my computer, you'd find me reading books and blogs about cryptography and blockchain because i believe blockchain and web3 is the future. Cant afford to miss out.
 
