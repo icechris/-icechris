@@ -36,4 +36,4 @@
 Thanks for connecting✌🏾
 
 
-https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg
+![github-contribution-grid-snake](https://github.com/icechris/icechris/assets/78994072/cdbe3637-e47f-492b-8434-32543bbfe7c0)
