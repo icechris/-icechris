@@ -1,7 +1,7 @@
 # -icechris
 🎧ABOUT ME💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Meet;The+Curious+Cat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile;The+Curious+Cat)](https://git.io/typing-svg)
 
 👋🏽 Hi, I'm Chris ( known as the curious cat)
 
